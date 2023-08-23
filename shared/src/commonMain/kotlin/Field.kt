@@ -1,0 +1,1 @@
+data class Field(var isBuild: Boolean = false, var text: String = "x")
